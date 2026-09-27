@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.huaanjob.cn/sitemap.xml
